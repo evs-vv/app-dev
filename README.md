@@ -1,2 +1,2 @@
-# app-dev-rep
-first repo
+# app-dev
+My first repository
